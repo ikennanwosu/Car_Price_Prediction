@@ -33,7 +33,7 @@ The files used in this project have been grouped as follows:
 
 
 ## Results
-The main findings from this project can be found at the post available [here.](https://www.google.com/)
+The main findings from this project can be found at the post available [here.](https://medium.com/p/afc65ae73d17/edit)
 
 
 ## Licensing and Acknowledgements
