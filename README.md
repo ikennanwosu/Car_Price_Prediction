@@ -1,5 +1,6 @@
 # Car Price Prediction
 An anaylysis of car advertisement data from AutoTrader - required as part of Udacity Data Scientist Nanodegree.
+![alt text](https://github.com/ikennanwosu/Car_Price_Prediction/blob/master/cars.PNG)
 ## Table of Contents
 
 1. [Installation](#installation)
